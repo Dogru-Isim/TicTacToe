@@ -190,7 +190,7 @@ def main():
 					break
 		            
 		except KeyboardInterrupt:
-			print('\nGame ended.\n')
+			print('\nGame ends.\n')
 			break
 			
 if __name__ == '__main__':
